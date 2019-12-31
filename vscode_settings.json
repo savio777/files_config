@@ -1,0 +1,7 @@
+{    
+    "editor.rulers": [90, 120],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#9421ff"
+    },
+    "editor.renderWhitespace": "boundary"
+}
