@@ -1,0 +1,7 @@
+Color Highlight;
+CSS Formatter;
+Material Icon Theme;
+Material Theme;
+PHP Intelhephense;
+PHP intellisense for codeigniter;
+
