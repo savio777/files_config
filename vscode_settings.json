@@ -3,5 +3,9 @@
     "workbench.colorCustomizations": {
         "editorRuler.foreground": "#9421ff"
     },
-    "editor.renderWhitespace": "boundary"
+    "editor.renderWhitespace": "boundary",
+    "window.zoomLevel": 0,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
 }
