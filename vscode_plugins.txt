@@ -1,8 +1,12 @@
 Color Highlight;
 CSS Formatter;
-Material Icon Theme;
 Material Theme;
+Material Icon Theme;
 PHP Intelhephense;
 PHP intellisense for codeigniter;
-Laravel Blade Snippets
-
+Laravel Blade Snippets;
+Import Cost;
+JavaScript and TypeScript Nightly;
+Markdown Preview Enhanced;
+Prettier - Code formatter;
+ESLint;
