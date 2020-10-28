@@ -1,0 +1,25 @@
+{
+  "defaultProfile": "{00000000-0000-0000-ba54-000000000001}",
+  "profiles":{
+    "list":[
+      {
+            "guid": "{00000000-0000-0000-ba54-000000000001}",
+            "acrylicOpacity" : 0.75,
+            "closeOnExit" : true,
+            "colorScheme" : "Campbell",
+            "commandline" : "C:/Program Files/Git/bin/bash.exe --login",
+            "cursorColor" : "#FFFFFF",
+            "cursorShape" : "bar",
+            "fontFace" : "Consolas",
+            "fontSize" : 14,
+            "historySize" : 9001,
+            "icon" : "%PROGRAMFILES%/Git/mingw64/share/git/git-for-windows.ico",
+            "name" : "Bash",
+            "padding" : "0, 0, 0, 0",
+            "snapOnInput" : true,
+            "startingDirectory" : "%USERPROFILE%",
+            "useAcrylic" : true
+	    }
+    ]
+  }
+}
