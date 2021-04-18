@@ -11,3 +11,4 @@ Markdown Preview Enhanced;
 Prettier - Code formatter;
 ESLint;
 Rainbow Brackets;
+BeardedTheme Black & Amethyst;
