@@ -12,3 +12,4 @@ Prettier - Code formatter;
 ESLint;
 Rainbow Brackets;
 BeardedTheme Black & Amethyst;
+GitLens — Git supercharged;
