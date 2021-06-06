@@ -13,3 +13,4 @@ ESLint;
 Rainbow Brackets;
 BeardedTheme Black & Amethyst;
 GitLens — Git supercharged;
+vscode-styled-components;
