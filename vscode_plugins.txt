@@ -14,3 +14,4 @@ Rainbow Brackets;
 BeardedTheme Black & Amethyst;
 GitLens — Git supercharged;
 vscode-styled-components;
+ES7 React/Redux/GraphQL/React-Native snippets;
