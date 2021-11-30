@@ -1,0 +1,16 @@
+- Color Highlight;
+- CSS Formatter;
+- Material Theme;
+- Material Icon Theme;
+- PHP Intelhephense;
+- PHP intellisense for codeigniter;
+- Laravel Blade Snippets;
+- JavaScript and TypeScript Nightly;
+- Markdown Preview Enhanced;
+- Prettier - Code formatter;
+- ESLint;
+- Bracket Pair Colorizer;
+- BeardedTheme Black & Amethyst;
+- GitLens — Git supercharged;
+- vscode-styled-components;
+- ES7 React/Redux/GraphQL/React-Native snippets;
