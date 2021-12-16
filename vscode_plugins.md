@@ -5,6 +5,7 @@
 - PHP Intelhephense;
 - PHP intellisense for codeigniter;
 - Laravel Blade Snippets;
+- Laravel Blade formatter;
 - JavaScript and TypeScript Nightly;
 - Markdown Preview Enhanced;
 - Prettier - Code formatter;
