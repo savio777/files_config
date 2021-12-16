@@ -2,6 +2,8 @@
 
 ## Annotations
 
+- ``` Ctrl + Shift + P ``` -> type ```json``` to find config file of the vscode
+
 > important commands
 
 - ```Shift + Alt + F``` -> shortcut indentation code
