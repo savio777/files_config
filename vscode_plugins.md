@@ -14,4 +14,5 @@
 - BeardedTheme Black & Amethyst;
 - GitLens — Git supercharged;
 - vscode-styled-components;
+- styled-components-snippets;
 - ES7 React/Redux/GraphQL/React-Native snippets;
