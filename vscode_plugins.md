@@ -10,7 +10,7 @@
 - Markdown Preview Enhanced;
 - Prettier - Code formatter;
 - ESLint;
-- Bracket Pair Colorizer;
+- Rainbow Brackets;
 - BeardedTheme Black & Amethyst;
 - GitLens — Git supercharged;
 - vscode-styled-components;
