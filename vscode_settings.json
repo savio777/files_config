@@ -33,5 +33,6 @@
     "tsconfig.json": "tune"
   },
   "material-icon-theme.folders.color": "#42a5f5",
-  "explorer.compactFolders": false
+  "explorer.compactFolders": false,
+  "emmet.includeLanguages": { "javascript": "html" }
 }
