@@ -34,4 +34,6 @@
   },
   "material-icon-theme.folders.color": "#42a5f5",
   "explorer.compactFolders": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
 }
