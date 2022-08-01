@@ -17,3 +17,5 @@
 - styled-components-snippets;
 - ES7 React/Redux/GraphQL/React-Native snippets;
 - DotENV
+- Docker
+- Expo Tools
