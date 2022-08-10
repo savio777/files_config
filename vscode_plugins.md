@@ -19,3 +19,4 @@
 - DotENV
 - Docker
 - Expo Tools
+- REST Client
