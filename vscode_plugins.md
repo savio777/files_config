@@ -20,3 +20,4 @@
 - Docker
 - Expo Tools
 - REST Client
+- SVG Viewer
