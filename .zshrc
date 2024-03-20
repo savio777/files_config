@@ -6,6 +6,7 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 # meus alias
 alias node-openssl='export SET NODE_OPTIONS=--openssl-legacy-provider'
+alias java-version-change='update-alternatives --config java'
 
 # android
 export ANDROID_HOME=$HOME/Android/Sdk
