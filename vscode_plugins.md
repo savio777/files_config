@@ -16,10 +16,10 @@
 - vscode-styled-components;
 - styled-components-snippets;
 - ES7 React/Redux/GraphQL/React-Native snippets;
-- DotENV
-- Docker
-- Expo Tools
-- REST Client
-- SVG Viewer
-- Rocketseat ReactJS
-- Rocketseat React Native
+- DotENV;
+- Docker;
+- Expo Tools;
+- REST Client;
+- SVG Viewer;
+- Rocketseat ReactJS;
+- Rocketseat React Native;
