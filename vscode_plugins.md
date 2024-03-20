@@ -23,3 +23,4 @@
 - SVG Viewer;
 - Rocketseat ReactJS;
 - Rocketseat React Native;
+- UUID Generator;
