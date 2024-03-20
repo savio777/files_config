@@ -21,3 +21,5 @@
 - Expo Tools
 - REST Client
 - SVG Viewer
+- Rocketseat ReactJS
+- Rocketseat React Native
