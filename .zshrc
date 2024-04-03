@@ -6,7 +6,9 @@ plugins=(git ssh-agent zsh-autosuggestions zsh-syntax-highlighting)
 
 # meus alias
 alias node-openssl='export SET NODE_OPTIONS=--openssl-legacy-provider'
-alias java-version-change='update-alternatives --config java'
+alias java-version-change='sudo update-alternatives --config java'
+alias ssh-active='eval `ssh-agent`'
+alias rn-doctor='npx react-native doctor'
 
 # android
 export ANDROID_HOME=$HOME/Android/Sdk
