@@ -22,3 +22,4 @@
 - Python
 - black formatter
 - Lorem ipsum
+- SQLite Viewer
