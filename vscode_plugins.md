@@ -2,11 +2,6 @@
 - CSS Formatter;
 - Material Theme;
 - Material Icon Theme;
-- PHP Intelhephense;
-- PHP intellisense for codeigniter;
-- Laravel Blade Snippets;
-- Laravel Blade formatter;
-- JavaScript and TypeScript Nightly;
 - Markdown Preview Enhanced;
 - Prettier - Code formatter;
 - ESLint;
@@ -24,3 +19,6 @@
 - Rocketseat ReactJS;
 - Rocketseat React Native;
 - UUID Generator;
+- Python
+- black formatter
+- Lorem ipsum
