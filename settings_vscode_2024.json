@@ -1,39 +1,16 @@
 {
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Bearded Theme Black & Amethyst",
+  "workbench.iconTheme": "eq-material-theme-icons",
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
   "git.autofetch": true,
-  "RainbowBrackets.depreciation-notice": false,
-  "git.openRepositoryInParentFolders": "always",
-  "[css]": {
-    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
-  },
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "eslint.validate": ["javascript", "react"],
-  "editor.fontSize": 15,
+  "editor.wordWrap": "on",
   "editor.renderWhitespace": "boundary",
-  "workbench.tree.indent": 14,
-  "editor.fontWeight": "500",
-  "editor.tabSize": 2,
+  "editor.fontWeight": "700",
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
+  "window.zoomLevel": 3.2,
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "window.zoomLevel": 3,
-  "security.workspace.trust.untrustedFiles": "open",
-  "editor.wordWrap": "on"
+  }
 }
