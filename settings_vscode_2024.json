@@ -6,11 +6,29 @@
   "editor.renderWhitespace": "boundary",
   "editor.fontWeight": "700",
   "editor.formatOnSave": true,
-  "window.zoomLevel": 3.2,
+ "window.zoomLevel": 3.3,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
